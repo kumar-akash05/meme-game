@@ -17,8 +17,10 @@ body {
 }
 
 h1 {
-    color: blue; 
+    color: white; 
+    background-color: blue;
 }
+
 
 .instructions {
     font-size: 20px;
